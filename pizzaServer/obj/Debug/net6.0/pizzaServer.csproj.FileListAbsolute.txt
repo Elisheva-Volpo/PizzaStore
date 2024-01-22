@@ -1,0 +1,113 @@
+D:\server\pizzaServer\bin\Debug\net6.0\appsettings.Development.json
+D:\server\pizzaServer\bin\Debug\net6.0\appsettings.json
+D:\server\pizzaServer\bin\Debug\net6.0\pizzaServer.exe
+D:\server\pizzaServer\bin\Debug\net6.0\pizzaServer.deps.json
+D:\server\pizzaServer\bin\Debug\net6.0\pizzaServer.runtimeconfig.json
+D:\server\pizzaServer\bin\Debug\net6.0\pizzaServer.dll
+D:\server\pizzaServer\bin\Debug\net6.0\pizzaServer.pdb
+D:\server\pizzaServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\server\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\server\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\server\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.AssemblyReference.cache
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfoInputs.cache
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfo.cs
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CoreCompileInputs.cache
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cs
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cache
+D:\server\pizzaServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\server\pizzaServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\server\pizzaServer\obj\Debug\net6.0\scopedcss\bundle\pizzaServer.styles.css
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CopyComplete
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.dll
+D:\server\pizzaServer\obj\Debug\net6.0\refint\pizzaServer.dll
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.pdb
+D:\server\pizzaServer\obj\Debug\net6.0\pizzaServer.genruntimeconfig.cache
+D:\server\pizzaServer\obj\Debug\net6.0\ref\pizzaServer.dll
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.AssemblyReference.cache
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfoInputs.cache
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfo.cs
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CoreCompileInputs.cache
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cs
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cache
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.dll
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\refint\pizzaServer.dll
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.AssemblyReference.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.GeneratedMSBuildEditorConfig.editorconfig
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfoInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.AssemblyInfo.cs
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CoreCompileInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cs
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.MvcApplicationPartsAssemblyInfo.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\refint\pizzaServer.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\appsettings.Development.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\appsettings.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.exe
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.deps.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.runtimeconfig.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\service.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\models.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Interface.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\service.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\staticwebassets.build.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\staticwebassets.development.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\scopedcss\bundle\pizzaServer.styles.css
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CopyComplete
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.genruntimeconfig.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\ref\pizzaServer.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\appsettings.Development.json
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\appsettings.json
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.exe
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.deps.json
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.runtimeconfig.json
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.pdb
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\FileService.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Interface.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\models.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\service.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\models.pdb
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Interface.pdb
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\service.pdb
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\FileService.pdb
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\staticwebassets.build.json
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\staticwebassets.development.json
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\scopedcss\bundle\pizzaServer.styles.css
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.csproj.CopyComplete
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\pizzaServer.genruntimeconfig.cache
+D:\server\bigPizzaServer\pizzaServer\obj\Debug\net6.0\ref\pizzaServer.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.staticwebassets.runtime.json
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\FileService.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\FileService.pdb
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\pizzaServer.staticwebassets.runtime.json
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

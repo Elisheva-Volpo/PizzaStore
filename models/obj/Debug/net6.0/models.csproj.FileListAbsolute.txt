@@ -1,0 +1,24 @@
+D:\server\bigPizzaServer\models\bin\Debug\net6.0\models.deps.json
+D:\server\bigPizzaServer\models\bin\Debug\net6.0\models.dll
+D:\server\bigPizzaServer\models\bin\Debug\net6.0\models.pdb
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.csproj.AssemblyReference.cache
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.AssemblyInfoInputs.cache
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.AssemblyInfo.cs
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.csproj.CoreCompileInputs.cache
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.dll
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\refint\models.dll
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\models.pdb
+D:\server\bigPizzaServer\models\obj\Debug\net6.0\ref\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\models\bin\Debug\net6.0\models.deps.json
+Y:\וולפא אלישבע\server\bigPizzaServer\models\bin\Debug\net6.0\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\models\bin\Debug\net6.0\models.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.csproj.AssemblyReference.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.GeneratedMSBuildEditorConfig.editorconfig
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.AssemblyInfoInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.AssemblyInfo.cs
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.csproj.CoreCompileInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\refint\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\models.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\models\obj\Debug\net6.0\ref\models.dll

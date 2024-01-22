@@ -1,0 +1,34 @@
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.AssemblyReference.cache
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.AssemblyInfoInputs.cache
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.AssemblyInfo.cs
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.CoreCompileInputs.cache
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.deps.json
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.dll
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.pdb
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\Interface.dll
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\models.dll
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\Interface.pdb
+D:\server\bigPizzaServer\FileService\bin\Debug\net6.0\models.pdb
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.CopyComplete
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.dll
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\refint\FileService.dll
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.pdb
+D:\server\bigPizzaServer\FileService\obj\Debug\net6.0\ref\FileService.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.deps.json
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\FileService.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\Interface.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\bin\Debug\net6.0\models.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.csproj.CopyComplete
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\refint\FileService.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\FileService.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\FileService\obj\Debug\net6.0\ref\FileService.dll

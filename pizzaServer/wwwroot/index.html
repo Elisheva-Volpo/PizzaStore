@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main id="pizzasListFrame">
+        wellcome!
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody id="pizzatbody">
+               
+            </tbody>
+        </table>
+    </main>
+    מזמור לתודה הריעו לה' כל הארץ: עבדו את ה' בשמחה בואו לפניו ברננה: דעו כי ה' הוא האלוקים: הוא עשנו ולו אנחנו: בואו
+    שעריו בתודה חצרותיו בתהילה: הודו לו ברכו שמו: כי טוב ה' לעולם חסדו ועד דור ודור אמונתו:
+    <br>
+    <button onclick="getAllPizzas();">get all pizzas</button>
+    <br>
+    <input type="text" id="getId">id:
+    <button onclick="getById()">get pizza by id</button>
+    <br>
+    <input type="text" name="" id="pizzaName">pizza name:
+    <input type="checkbox" name="" id="pizzIsGluten">is gluten:
+    <input type="number" name="" id="pizzaPrice">pizza price:
+    <button onclick="postPizza()">add new pizza</button>
+    <br>
+    <button onclick="putPizza()">update pizza details</button>
+    <br>
+    <button onclick="deletePizza()">delete pizza</button>
+
+</body>
+<script src="./code.js" asp-append-version="true"></script>
+
+</html>

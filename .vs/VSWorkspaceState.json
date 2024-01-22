@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FileService",
+    "\\Interface",
+    "\\pizzaServer",
+    "\\pizzaServer\\Controllers",
+    "\\pizzaServer\\wwwroot",
+    "\\service"
+  ],
+  "SelectedNode": "\\pizzaServer\\wwwroot\\code.js",
+  "PreviewInSolutionExplorer": false
+}

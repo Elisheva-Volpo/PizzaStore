@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "6VIYYgmlhmbYiMM1rfOxIZFRwAwW8EsG1YCFJZUg7fM=",
+  "Source": "pizzaServer",
+  "BasePath": "_content/pizzaServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "pizzaServer\\wwwroot",
+      "Source": "pizzaServer",
+      "ContentRoot": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\",
+      "BasePath": "_content/pizzaServer",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\code.js",
+      "SourceId": "pizzaServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\",
+      "BasePath": "_content/pizzaServer",
+      "RelativePath": "code.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\code.js"
+    },
+    {
+      "Identity": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\img\\פיצה.png",
+      "SourceId": "pizzaServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\",
+      "BasePath": "_content/pizzaServer",
+      "RelativePath": "img/פיצה.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\פיצה.png"
+    },
+    {
+      "Identity": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\index.html",
+      "SourceId": "pizzaServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\",
+      "BasePath": "_content/pizzaServer",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\style.css",
+      "SourceId": "pizzaServer",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\server\\bigPizzaServer\\pizzaServer\\wwwroot\\",
+      "BasePath": "_content/pizzaServer",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}

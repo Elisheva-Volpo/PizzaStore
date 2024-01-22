@@ -1,0 +1,14 @@
+body{
+    background-image: url("./img/פיצה.png");
+    font-size: x-large;
+    font-weight: bold;
+}
+table{
+    background-color: bisque;
+}
+th, td {
+    padding: 15px;
+    text-align: center;
+    border-bottom: 1px solid #737373;
+  }
+  tr:nth-child(even) {background-color: #fb8f8f;}

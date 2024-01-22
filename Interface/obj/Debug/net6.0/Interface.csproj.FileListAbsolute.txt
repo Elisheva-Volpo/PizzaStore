@@ -1,0 +1,30 @@
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+D:\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.deps.json
+D:\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.dll
+D:\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.pdb
+D:\server\bigPizzaServer\Interface\bin\Debug\net6.0\models.dll
+D:\server\bigPizzaServer\Interface\bin\Debug\net6.0\models.pdb
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.CopyComplete
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.dll
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\refint\Interface.dll
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.pdb
+D:\server\bigPizzaServer\Interface\obj\Debug\net6.0\ref\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.deps.json
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\bin\Debug\net6.0\Interface.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\bin\Debug\net6.0\models.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\bin\Debug\net6.0\models.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.AssemblyReference.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.GeneratedMSBuildEditorConfig.editorconfig
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.AssemblyInfoInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.AssemblyInfo.cs
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.CoreCompileInputs.cache
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.csproj.CopyComplete
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\refint\Interface.dll
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\Interface.pdb
+Y:\וולפא אלישבע\server\bigPizzaServer\Interface\obj\Debug\net6.0\ref\Interface.dll
