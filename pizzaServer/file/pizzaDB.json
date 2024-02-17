@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "Name": "Classic Italian",
+        "IsGluten": false,
+        "Price": 89
+    },
+    {
+        "Id": 2,
+        "Name": "Veggie",
+        "IsGluten": true,
+        "Price": 58
+    },
+    {
+        "Id": 3,
+        "Name": "Muzzarella",
+        "IsGluten": true,
+        "Price": 44
+    },
+    {
+        "Id":  4,
+        "Name": "Gouda",
+        "IsGluten": false,
+        "Price": 87
+    },
+    {
+        "Id": 5,
+        "Name": "cream",
+        "IsGluten": true,
+        "Price": 74
+    },
+    {
+        "Id": 6,
+        "Name": "Angel",
+        "IsGluten": true,
+        "Price": 20
+    }
+]

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "pizzaServer/1.0.0": {
         "dependencies": {
+          "FileService": "1.0.0",
           "Interface": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "5.0.4",
           "Microsoft.IdentityModel.Tokens": "6.9.0",

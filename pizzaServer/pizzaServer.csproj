@@ -18,6 +18,7 @@
     <!--<ProjectReference Include="..\services\services.csproj" />-->
     <ProjectReference Include="..\Interface\Interface.csproj" />
     <ProjectReference Include="..\service\service.csproj" />
+    <ProjectReference Include="..\FileService\FileService.csproj" />
   </ItemGroup>
 
 </Project>

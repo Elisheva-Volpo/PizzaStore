@@ -2,12 +2,12 @@
 
 namespace bigPizzaServer.Interface
 {
-    public interface IFile
+    public interface IFile<T>
     {
         string StringPath { get; set; }
 
-        public void Write(string data);
-
-        public void Read(string data);
+        public void Write(T data,string path);
+        public List<T> Read(string path);
+        public void DeleteAllLines(string path);
     }
 }

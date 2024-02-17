@@ -1048,6 +1048,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FileService >= 1.0.0",
       "Interface >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.4",
       "Microsoft.IdentityModel.Tokens >= 6.9.0",
@@ -1088,6 +1089,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "D:\\server\\bigPizzaServer\\FileService\\FileService.csproj": {
+              "projectPath": "D:\\server\\bigPizzaServer\\FileService\\FileService.csproj"
+            },
             "D:\\server\\bigPizzaServer\\Interface\\Interface.csproj": {
               "projectPath": "D:\\server\\bigPizzaServer\\Interface\\Interface.csproj"
             },

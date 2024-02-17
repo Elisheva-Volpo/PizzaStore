@@ -111,3 +111,4 @@ D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Pr
 D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\server\bigPizzaServer\pizzaServer\bin\Debug\net6.0\file\pizzaDB.json

@@ -29,10 +29,13 @@ public class PizzaController : ControllerBase
     {
         var pizza = ip.Get(id);
 
-        if (pizza == null)
+        if (pizza == null){
+            Console.WriteLine("I am so dambel!!!");
             return NotFound();
-
-        return pizza;
+        }
+            
+        Console.WriteLine(pizza+"pizza");
+        return Ok(pizza);
     }
 
     [HttpPut]

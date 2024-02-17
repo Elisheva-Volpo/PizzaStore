@@ -214,6 +214,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "D:\\server\\bigPizzaServer\\FileService\\FileService.csproj": {
+                "projectPath": "D:\\server\\bigPizzaServer\\FileService\\FileService.csproj"
+              },
               "D:\\server\\bigPizzaServer\\Interface\\Interface.csproj": {
                 "projectPath": "D:\\server\\bigPizzaServer\\Interface\\Interface.csproj"
               },

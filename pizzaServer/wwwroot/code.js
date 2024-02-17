@@ -30,11 +30,9 @@ function fillPizzaList(pizzaList) {
 function getById() {
     let id = document.getElementById("getId").value;
     fetch(`${basicUrl}${id}`)
-        .then(res => {
-            console.log(res);
-            res.json();
-        })
+        .then(res => res.json())
         .then(pizza => {
+            console.log(pizza);
             var tr = `<tr>
         <td>${pizza.name}</td>
         <td>${pizza.price}</td>
@@ -42,7 +40,10 @@ function getById() {
             pizzatbody.innerHTML = tr;
             console.log(pizza);
         })
-        .catch(err => console.log(err));
+        .catch((err) => {
+            console.log("in eror!!!!");
+            console.log(err);
+        });
 
 }
 
